@@ -1,0 +1,22 @@
+.navbar {
+  background-color: rgba(247, 211, 6, 0.895);
+  padding: "10px";
+  text-align: "center";
+}
+.contaniner {
+  width: 90%;
+  margin: auto;
+}
+.nav-contant {
+  display: flex;
+  justify-content: space-between;
+}
+nav h2 {
+  margin-right: "auto";
+  color: blue;
+}
+nav p {
+  margin-left: "auto";
+  font-weight: 700;
+  cursor: pointer;
+}

@@ -1,0 +1,25 @@
+.movie-details-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 20%;
+  height: auto;
+  border-radius: 6px;
+}
+
+p {
+  width: 30%;
+  font-size: 1rem;
+  color: #575656;
+  text-align: center;
+}
