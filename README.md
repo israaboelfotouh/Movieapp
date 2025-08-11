@@ -31,4 +31,4 @@ Built with React (or Next.js) and fetches data from the [OMDb API](http://www.om
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   git clone https://github.com/israaboelfotouh/Movieapp.git
